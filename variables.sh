@@ -4,4 +4,9 @@
 # b. User defined varibles (gernally are in lowercase).
 echo $BASH
 echo "This $BASH simply prints the path for the bash shell."
+echo $BASH
+echo $BASH_VERSION
+echo $HOME
+echo $PWD
+
 
